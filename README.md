@@ -1,5 +1,6 @@
 # Info
 - This is the package used to balance the volume of requests from clients for your software.
+- `npm i vb-request`
 
 # Example
 ```js
