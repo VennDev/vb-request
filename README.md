@@ -1,6 +1,6 @@
 # Info
 - This is the package used to balance the volume of requests from clients for your software.
-- Install package: `npm i vb-request`
+- Install package: ```npm i vb-request```
 
 # Example
 ```js
